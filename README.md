@@ -161,6 +161,7 @@ Application Development
 
 ---
 
+# 🚀 Featured Projects
 
 🎬 NOTFLIX — Full Movie Platform
 
