@@ -290,13 +290,6 @@ I believe the best way to become a better engineer is to build real systems, sol
 
 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=menelik&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=menelik&layout=compact&hide_border=true" height="170"/>
-</p><p align="center">
-  <img src="https://streak-stats.demolab.com?user=Menelik288&hide_border=true" />
-</p>---
-
 🤝 Let's Connect
 
 I'm always interested in software engineering, technology, open-source projects, AI, and building useful products.
